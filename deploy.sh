@@ -1,1 +1,1 @@
-deploying java application
+deploying application ready
